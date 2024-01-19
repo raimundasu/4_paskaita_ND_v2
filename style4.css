@@ -1,0 +1,68 @@
+/* neaišku kada pabaigti tobulinti:) kuo daugiau pabandai, tuo mažiau patenkintas rezultatu:) */
+
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,700&family=Patrick+Hand+SC&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Lato", sans-serif;
+  font-family: "Patrick Hand SC", cursive;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+body {
+  margin: 20%;
+  text-align: center;
+  list-style-position: inside;
+  background-color: brown;
+  background-image: url("beveikas.jpg");
+  filter: drop-shadow(10px 10px);
+}
+
+div {
+  background-color: brown;
+  border-radius: 40px;
+  padding: 10px;
+}
+
+h1 {
+  border-width: 20px;
+  border-color: #5a8b00;
+  border-style: solid;
+  border-radius: 4cm;
+  color: #5a8b00;
+  font-size: 4em;
+}
+
+h2,
+h4 {
+  color: #00008b;
+  font-size: 3em;
+}
+
+li {
+  color: #144f49;
+  font-size: 2em;
+}
+
+img {
+  width: 80%;
+  margin: 10%;
+  border-radius: 40px;
+  border-width: 8px;
+  border-style: solid;
+  border-color: black;
+}
+
+p {
+  font-size: 2em;
+  color: #4f1417;
+  font-weight: 900;
+}
+
+.footnote {
+  font-size: medium;
+  text-align: left;
+  font-weight: lighter;
+}
